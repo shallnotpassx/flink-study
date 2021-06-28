@@ -1,0 +1,7 @@
+Hello World
+Hello AAA
+Hello BBB
+Hello CCC
+Hello DDD
+World destroyed!
+Lai is Come, qu is Go
